@@ -1,3 +1,6 @@
 Las aventuras de como si fuera...
 
-Git
+Los capitulos son:
+
+- Capitulo 1 - Capitan Gitman
+- Capitulo 2 - El poder del Commit
